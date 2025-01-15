@@ -48,9 +48,9 @@ Welcome to my GitHub space! I love blending **creativity and technology** to cra
 [![Live Demo](https://img.shields.io/badge/-Live_Demo-brightgreen?style=for-the-badge)]((https://demo.debiai.fr/#/))
 [![GitHub](https://img.shields.io/badge/-GitHub_Repo-181717?logo=github&logoColor=white&style=for-the-badge)]((https://github.com/debiai/DebiAI))
 
-<!--> A **space-themed 3D visualization** where users can explore planets and galaxies. Built with **WebGL** and **Three.js**. 
+<!-- A **space-themed 3D visualization** where users can explore planets and galaxies. Built with **WebGL** and **Three.js**. 
 
----
+--- -->
 
 ## 🌐 Let's Connect!
 
