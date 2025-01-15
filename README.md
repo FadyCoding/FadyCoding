@@ -29,11 +29,11 @@ Welcome to my GitHub space! I love blending **creativity and technology** to cra
 ---
 ## ✨ Projects
 
-- [**DebiAI**](https://github.com/your-repo-link): Open Source Data Analysis Web App, made with Vue.js, Python and FastAPI.  
+- [**DebiAI**](https://github.com/debiai/DebiAI): Open Source Data Analysis Web App, made with Vue.js, Python and FastAPI.  
 - [**Genesis AI Short Film**](https://youtu.be/bNjXkdaBKWk): Creation and implementation ML Model to render realistic lighting models and creation stunning visuals with AI tools.
-    - [Lightning realism Model](https://github.com/FadyCoding/Lightning-Realism-Model)
+    - [Lightning realism Model](https://github.com/FadyCoding/Lightning-Realism-Model), ML model that compares real datasets lighting images to 3D personalized rendered lightnings.
     - [3D Lightning Breakdown](https://youtu.be/6yESb9-7Vvo) on **Blender** using geometry nodes.  
-- [**EPEPEP**](https://github.com/your-repo-link): A Github tool Analysis Platform to analyse large scale repositories, made with Python.
+- [**EPEPEP**](https://github.com/FadyCoding/EPEPEP-): A Github tool Analysis Platform to analyse large scale repositories, made with Python.
   
 ---
 
