@@ -1,50 +1,71 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=FadyCoding.FadyCoding" />
+# Hi there! 👋 I'm [Your Name]
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Fady+Bekkar!;" />
-</h1>
+🎨 **Creative Coder | Tech & 3D Enthusiast**
 
-<h3 align="center">A fullstack developer from France </h3>
+Welcome to my GitHub space! I love blending **creativity and technology** to craft immersive experiences. Explore my repositories, where art meets code and innovation drives fun projects!
 
-<br/>
+---
+
+## 🌟 About Me
+
+- 🎮 Passionate about **3D graphics** and **interactive web experiences**
+- 🌍 Exploring the intersection of **design** and **development**
+- 🚀 Always learning and sharing new tools and frameworks
+
+---
+
+## 🛠️ Technologies & Tools
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![Three.js](https://img.shields.io/badge/-Three.js-000000?logo=three.js&logoColor=white&style=for-the-badge)
+![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white&style=for-the-badge)
+
+---
+
+## ✨ Featured Projects
+
+### 🎥 **3D Short Film made with AI : Genesis**  
+[![Live Demo](https://img.shields.io/badge/-Live_Demo-brightgreen?style=for-the-badge)](https://your-live-demo-link.com)
+[![GitHub](https://img.shields.io/badge/-GitHub_Repo-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/your-repo-link)
+
+> An interactive **3D portfolio website** where users can navigate through my work, view 3D objects, and interact with the content using **Three.js**.
+
+### 🌌 **Contribution to growing Open Source Data Analysis Web Application : DebiAI**  
+[![Live Demo](https://img.shields.io/badge/-Live_Demo-brightgreen?style=for-the-badge)]((https://demo.debiai.fr/#/))
+[![GitHub](https://img.shields.io/badge/-GitHub_Repo-181717?logo=github&logoColor=white&style=for-the-badge)]((https://github.com/debiai/DebiAI))
+
+> A **space-themed 3D visualization** where users can explore planets and galaxies. Built with **WebGL** and **Three.js**.
+
+---
+
+## 🌐 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/your-profile)
+<!-- [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/your-profile) -->
+<!-- [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=firefox&logoColor=white&style=for-the-badge)](https://your-portfolio-link.com) -->
+
+
+---
+
+## 🖌️ Interactive 3D Experience
+
+> Click the 3D model below to see my creative side in action! 🎉  
 
 <div align="center">
- 
- 🔭 I’m currently working on **DebiAI** an opensource web application.
- 
- 🌱 I’m currently learning **Docker and Machine Learning**
-
-💬 Ask me about **Vue.js, C++, 3D Modeling... or anything**
-
- </div>
- 
-<div align="center"> 
-  <a href="mailto:fadybekkar77@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/fady-bekkar/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
+  <iframe src="https://your-3d-model-link.com" width="600" height="400" style="border:none;"></iframe>
 </div>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,vuejs,python,javascript,cpp,c#," /><br>
-</div>
+---
 
-<br/>
-<hr/>
+## 🏆 GitHub Stats
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/FadyCoding/FadyCoding/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="Streak Stats" />
 </div>
 
-<hr/>
+---
+
+### 🎨 “Art is how we decorate space, but coding is how we decorate time.” – John Maeda
