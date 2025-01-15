@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Fady !
 
-🎨 **Creative Coder | Tech & 3D Enthusiast**
+🎨 **Creative Engineer | Tech & 3D Enthusiast**
 
 Welcome to my GitHub space! I love blending **creativity and technology** to craft immersive experiences. Explore my repositories, where art meets code and innovation drives fun projects!
 
