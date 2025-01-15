@@ -60,7 +60,7 @@ Welcome to my GitHub space! I love blending **creativity and technology** to cra
 
 
 ---
-
+<!--
 ## 🖌️ Interactive 3D Experience
 
 > Click the 3D model below to see my creative side in action! 🎉  
@@ -70,6 +70,7 @@ Welcome to my GitHub space! I love blending **creativity and technology** to cra
 </div>
 
 ---
+-->
 
 ## 🏆 GitHub Stats
 
