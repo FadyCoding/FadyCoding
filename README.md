@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Fady !
+# Hi there! 👋 I'm Fady ! [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fady-bekkar/)
 
 🎨 **Creative Engineer | Tech & 3D Enthusiast**
 
@@ -14,23 +14,21 @@ Welcome to my GitHub space! I love blending **creativity and technology** to cra
 
 ---
 ## 🛠️ Technologies & Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge)
-![Three.js](https://img.shields.io/badge/-Three.js-000000?logo=three.js&logoColor=white&style=for-the-badge)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=for-the-badge)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white&style=for-the-badge)
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white) 
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) 
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white) 
 
 ---
 ## ✨ Projects
 
 - [**DebiAI**](https://github.com/debiai/DebiAI): Open Source Data Analysis Web App, made with Vue.js, Python and FastAPI.  
-- [**Genesis AI Short Film**](https://youtu.be/bNjXkdaBKWk): Creation and implementation ML Model to render realistic lighting models and creation stunning visuals with AI tools.
+- [**Genesis AI Short Film**](https://youtu.be/bNjXkdaBKWk): Implementation of a ML Model to render realistic lighting models and creation of stunning visuals with AI tools.
     - [Lightning realism Model](https://github.com/FadyCoding/Lightning-Realism-Model), ML model that compares real datasets lighting images to 3D personalized rendered lightnings.
     - [3D Lightning Breakdown](https://youtu.be/6yESb9-7Vvo) on **Blender** using geometry nodes.  
 - [**EPEPEP**](https://github.com/FadyCoding/EPEPEP-): A Github tool Analysis Platform to analyse large scale repositories, made with Python.
@@ -51,14 +49,6 @@ Welcome to my GitHub space! I love blending **creativity and technology** to cra
 <!-- A **space-themed 3D visualization** where users can explore planets and galaxies. Built with **WebGL** and **Three.js**. 
 
 --- -->
-
-## 🌐 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/fady-bekkar/)
-<!-- [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/your-profile) -->
-<!-- [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=firefox&logoColor=white&style=for-the-badge)](https://your-portfolio-link.com) -->
-
-
 ---
 <!--
 ## 🖌️ Interactive 3D Experience
@@ -76,9 +66,6 @@ Welcome to my GitHub space! I love blending **creativity and technology** to cra
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FadyCoding&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FadyCoding&show_icons=true&theme=radical" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FadyCoding&show_icons=true&theme=radical" /> -->
 </div>
 
----
-
-### 🎨 “Art is how we decorate space, but coding is how we decorate time.” – John Maeda
